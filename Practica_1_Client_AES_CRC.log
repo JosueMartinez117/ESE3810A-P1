@@ -1,0 +1,57 @@
+C:\Users\HP\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\HP\PycharmProjects\pythonProject\myssn_client.py 
+myssn INFO: connecting to 192.168.0.102 port 10000
+$ HelloWorld_1
+myssn INFO: sending data: b'HelloWorld_1'
+myssn INFO: encrypted message: b'\xf6\xe7\x8c(/\xcb\xae\x87\x1ax\x87\x83\xe5G\xc2('
+myssn INFO: tx crc32 = 695792356, crc bytes = b'\xe4\xf2x)'
+myssn DATA: b'HelloWorld_1'
+DATA: b'HelloWorld_1'
+$ HelloWorld_2
+myssn INFO: sending data: b'HelloWorld_2'
+myssn INFO: encrypted message: b'+H/\xe3\x9dmX\xc6\xec\x80\xf1\x17s\xc0\xc0\x9d'
+myssn INFO: tx crc32 = 3651595522, crc bytes = b'\x02\xed\xa6\xd9'
+myssn DATA: b'HelloWorld_2'
+DATA: b'HelloWorld_2'
+$ HelloWorld_3
+myssn INFO: sending data: b'HelloWorld_3'
+myssn INFO: encrypted message: b'\x1f\xe15"B\xe7\xfbJ3\x14\xf4\xa1sz\x8a\x0e'
+myssn INFO: tx crc32 = 3783948226, crc bytes = b'\xc2w\x8a\xe1'
+myssn DATA: b'HelloWorld_3'
+DATA: b'HelloWorld_3'
+$ HelloWorld_4
+myssn INFO: sending data: b'HelloWorld_4'
+myssn INFO: encrypted message: b'0\xf4\xe9Yd_\xd2\xe0F\\a>\x13y\xf0Y'
+myssn INFO: tx crc32 = 2560258600, crc bytes = b'(r\x9a\x98'
+myssn DATA: b'HelloWorld_4'
+DATA: b'HelloWorld_4'
+$ HelloWorld_5
+myssn INFO: sending data: b'HelloWorld_5'
+myssn INFO: encrypted message: b'c\n_w\x87KA\x8a\xe5\x8d\x13\xf3\x0b($>'
+myssn INFO: tx crc32 = 937517777, crc bytes = b'\xd1b\xe17'
+myssn DATA: b'HelloWorld_5'
+DATA: b'HelloWorld_5'
+$ HelloWorld_6
+myssn INFO: sending data: b'HelloWorld_6'
+myssn INFO: encrypted message: b'V\x0f\x94\x17\xad/A\xb8\xcf\x92y\xe7\x11\x12\xbe\x0c'
+myssn INFO: tx crc32 = 2397366290, crc bytes = b'\x12\xe8\xe4\x8e'
+myssn DATA: b'HelloWorld_6'
+DATA: b'HelloWorld_6'
+$ HelloWorld_7
+myssn INFO: sending data: b'HelloWorld_7'
+myssn INFO: encrypted message: b'\x16\xbd\xa5\xe5\xce\xa04\x9f\xc1A\xfd\xf6F|\xceN'
+myssn INFO: tx crc32 = 2138833523, crc bytes = b's\x02|\x7f'
+myssn DATA: b'HelloWorld_7'
+DATA: b'HelloWorld_7'
+$ HelloWorld_8
+myssn INFO: sending data: b'HelloWorld_8'
+myssn INFO: encrypted message: b'w-od\xf5S\x9f\x8f\xd1M1Zi\xa4b8'
+myssn INFO: tx crc32 = 2947179696, crc bytes = b'\xb0d\xaa\xaf'
+myssn DATA: b'HelloWorld_8'
+DATA: b'HelloWorld_8'
+$ HelloWorld_N_Times
+myssn INFO: sending data: b'HelloWorld_N_Times'
+myssn INFO: encrypted message: b'\xe9\xe2\x18\x0c\xa4\xe3\x81\x9b\xbf\x89;5\x17\xdf\xc3\x8e6\xa4\xc8\x9d6\xb5\xacs&\n\xef\x80(\xb43\xfd'
+myssn INFO: tx crc32 = 3870800459, crc bytes = b'K\xba\xb7\xe6'
+myssn DATA: b'HelloWorld_N_Times'
+DATA: b'HelloWorld_N_Times'
+$ 
