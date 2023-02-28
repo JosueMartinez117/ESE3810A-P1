@@ -1,0 +1,8 @@
+../source/aes_crc.c:17:6:InitCrc32	32	static
+../source/aes_crc.c:35:6:aescrc_test_task	72	static
+../source/aes_crc.c:74:12:encrypt_message_AES	24	static
+../source/aes_crc.c:97:12:decrypt_message_AES	32	static
+../source/aes_crc.c:129:10:CRC32	24	static
+../source/aes_crc.c:147:6:receive_cypher_messages	208	static
+../source/aes_crc.c:215:6:tcpecho_server	56	static
+../source/aes_crc.c:271:6:tcpecho_client	104	static
